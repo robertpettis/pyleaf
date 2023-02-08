@@ -1,0 +1,6 @@
+setup.py
+pyleaf.egg-info/PKG-INFO
+pyleaf.egg-info/SOURCES.txt
+pyleaf.egg-info/dependency_links.txt
+pyleaf.egg-info/requires.txt
+pyleaf.egg-info/top_level.txt
