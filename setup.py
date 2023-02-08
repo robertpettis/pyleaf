@@ -23,8 +23,8 @@ setup(
     
     install_requires = [
         'geojson',
-		'pandas',
-		'geopandas',
+	'pandas',
+	'geopandas',
     ],
     extras_require={
         'dev': extra_dev,
