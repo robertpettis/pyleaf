@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from pyleaf import __version__
 
 extra_test = [
     'pytest>=4',
@@ -23,8 +22,8 @@ setup(
     
     install_requires = [
         'geojson',
-		'pandas',
-		'geopandas',
+	'pandas',
+	'geopandas',
     ],
     extras_require={
         'dev': extra_dev,
