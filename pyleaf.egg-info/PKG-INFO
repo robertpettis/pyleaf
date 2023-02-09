@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: pyleaf
-Version: 0.0.0
-Home-page: https://github.com/robertpettis/pyleaf.git
-Author: Robert Pettis
-Author-email: pettis.robert@gmail.com
-Provides-Extra: dev
-Provides-Extra: test
